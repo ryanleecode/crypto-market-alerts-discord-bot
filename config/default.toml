@@ -1,0 +1,13 @@
+debug = true
+
+[vault]
+addr = 'http://127.0.0.1:8200'
+
+[db]
+username = "postgres"
+hostname = "localhost"
+port = 6000
+database_name = "postgres"
+
+[server]
+port = 3030
